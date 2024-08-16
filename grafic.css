@@ -1,0 +1,7 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+.tradingview-widget-container {
+    width: 480px;
+    height: 500px;
+}
